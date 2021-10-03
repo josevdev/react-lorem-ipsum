@@ -1,1 +1,1 @@
-# react-lorem-ipsum
+# React Lorem Ipsum generator
